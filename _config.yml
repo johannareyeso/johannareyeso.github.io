@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Johanna Reyes Ortega / Social Scientist"
+title                    : "Johanna Reyes Ortega"
 title_separator          : "-"
 name                     : &name "Johanna Reyes"
 description              : &description "Political Science PhD Student at UC Berkeley"
 url                      : https://johannareyeso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "johannareyeso.github.io" 
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :"@JoRey_O"
 facebook:
   username               :
   app_id                 :
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Johanna Reyes Ortega"
-  avatar           : "profile.png"
-  bio              : "Social Scientist | Community Builder | Feminists | Immigrant"
+  avatar           : "Johanna Cuba Jan 2022.png"
+  bio              : "Social Scientist | Immigrant | Community Builder | Feminist"
   location         : "UC Berkeley"
   employer         :
-  email            :  reyesort@berkeley.edu
+  email            : reyesort@berkeley.edu
   uri              :
   bitbucket        :
   codepen          :
