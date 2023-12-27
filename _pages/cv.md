@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[2024 CV](https://github.com/johannareyeso/johannareyeso.github.io/blob/e4570571f6fde7091ed7b1b0e11962d7beb8e838/files/Reyes_CV_2024.pdf)
+[2024 CV](https://johannareyeso.github.io/files/Reyes_CV_2024.pdf)
 
 
 Education
