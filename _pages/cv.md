@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+![Image Title](.G:/My Drive/Reyes_CV_2024.pdf){width=65%}
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
