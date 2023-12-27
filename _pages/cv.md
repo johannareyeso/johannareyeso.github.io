@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Image Title](.G:/My Drive/Reyes_CV_2024.pdf){width=65%}
+![PNG Image](G:/My Drive/Reyes_CV_2024_Page_1.png)
 
 
 Education
