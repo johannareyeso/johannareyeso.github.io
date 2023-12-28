@@ -7,7 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-[2024 CV](https://johannareyeso.github.io/files/Reyes_CV_2024.pdf)
+[CV (updated January 2024)](https://johannareyeso.github.io/files/Reyes_CV_2024.pdf)
 
