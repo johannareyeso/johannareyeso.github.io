@@ -1,6 +1,7 @@
 ---
 title: "The Gendered Process of Migration: Labor-Market Behavior of Left-Behind Wives in Mexico"
 collection: publications
+permalink: /publications/migration/
 ---
 Contact for working paper.
 
