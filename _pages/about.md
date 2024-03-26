@@ -12,4 +12,4 @@ I am a PhD Student in Political Science at the University of California, Berkele
 
 Prior to Berkeley, I worked for the Mexican Ministry of Foreign Affairs at the Consulate General of Mexico in Los Angeles, and as Advisor to Mexico's Undersecretary for North America in Mexico City. I also worked as Program Manager for a Los Angeles-based nonprofit organization that educates local Latinx elected officials on water and sustainability issues. I hold a Master's Degree in Applied Development Economics from the London School of Economics and a Bachelor's Degree in International Relations and the Global Economy from the University of Southern California.
 
-I was born in Mexico City and immigrated to Los Angeles, CA with my family when I was 12 years old.
+I was born in Mexico City and immigrated to Los Angeles, CA with my family when I was 12 years old. I am a proud first-generation college graduate.
