@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Updated May 2024](https://johannareyeso.github.io/files/Reyes_CV_2024.pdf)
+[Updated August 2024](https://johannareyeso.github.io/files/Reyes_CV_2024.pdf)
 
