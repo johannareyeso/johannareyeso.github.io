@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+> GSI for Political Science Math Camp (Graduate)
+
+Probability and Statistics, Matrix Algebra, Calculus, and Optimization, Summer 2024
 
 > GSI for Political Science 231b (Graduate)
 
