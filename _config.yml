@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Johanna Reyes Ortega"
 title_separator          : "-"
 name                     : &name "Johanna Reyes"
-description              : &description "Political Science PhD Student at UC Berkeley"
+description              : &description "Political Science PhD Candidate at UC Berkeley"
 url                      : https://johannareyeso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "johannareyeso.github.io" 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Johanna Reyes Ortega"
   avatar           : "Johanna Cuba Jan 2022.png"
-  bio              : "Political Science PhD Student | Immigrant | Community Builder | Feminist"
+  bio              : "Political Science PhD Candidate | Immigrant | Community Builder | Feminist"
   location         : "UC Berkeley"
   employer         :
   email            : reyesort@berkeley.edu
