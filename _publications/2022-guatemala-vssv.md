@@ -1,8 +1,0 @@
----
-title: "Gender-Based Violence and Access to Justice: Evidence from Specialized Clinics in Guatemala"
-collection: publications
----
-Contact for working paper. 
-
-Can specialized state services increase access to justice for victims of sexual violence? Evidence from studies on specialized services is mixed and primarily emphasizes the feedback effects of policies or associated attitudinal changes. I argue that specialized state interventions in the form of 'one-stop shops' lower the incidence of violence by reducing costs to victims of reporting and accessing life-saving care, signaling enforcement to perpetrators, and altering norms and attitudes. I evaluate the effect of specialized sexual violence clinics on crimes of sexual violence against women and girls in Guatemala through a difference-in-differences analysis with staggered adoption that compares municipalities before and after the opening of specialized clinics to those without such clinics. I find that, on average, treated municipalities experience a significant decrease in crimes of sexual violence after the opening of a specialized clinics, equivalent to a 60% drop in baseline crime rates. This is accompanied by a positive effect of clinics on the proportion of processed crimes, suggesting that the crime reduction might be partially driven by enforcement signaling. Lessons from the Guatemalan case shed light on how specialized state services can produce positive results for victims of gender-based violence in countries with deeply entrenched patriarchal norms and institutionalized conflict-related violence against women and girls.
-
