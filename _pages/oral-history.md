@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: archive
 title: "Revolutionary Oral History Project"
 permalink: /oral-history/
+author_profile: true
 ---
 
 ## Revolutionary Oral History Project
