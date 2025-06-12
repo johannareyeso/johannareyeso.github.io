@@ -1,6 +1,7 @@
 ---
 title: "Rights Talk: Activists and Governments at the UN Human Rights Council (with Leonardo Arriola and Fiona Shen-Bayh)"
 collection: publications
+status: "Working Paper"
 ---
 Contact for working paper. 
 
