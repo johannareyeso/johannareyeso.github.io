@@ -2,6 +2,7 @@
 title: "Rights Activism Across Political Oscillations:
 Comparing Strategies in Mali and Côte d’Ivoire (with Leonardo Arriola, Arsène Brice Bado, Jaimie Bleck, Justine Davis, Alyssa Heinze, and Moumouni Soumano)"
 collection: publications
+status: "Working Paper"
 ---
 Contact for working paper. 
 
