@@ -69,7 +69,7 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
+/*.author__avatar {
   display: table-cell;
   vertical-align: top;
   width: 36px;
@@ -80,7 +80,22 @@
     display: block;
     width: auto;
     height: auto;
+  }// */
+
+.author__avatar {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;     // makes it circular
+  object-fit: cover;      // crops image nicely
+  display: block;
+  margin: 0 auto;         // center the image
+
+  @include breakpoint($large) {
+    width: 200px;
+    height: 200px;
   }
+}
+
 
   img {
     max-width: 175px;
