@@ -1,5 +1,5 @@
 ---
-title: "Promises and Perils: Women'S Incorporation into Revolutionary Regimes"
+title: "Promises and Perils: Women's Incorporation into Revolutionary Regimes"
 collection: publications
 status: "Dissertation Project"
 ---
