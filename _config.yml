@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :"@JoRey_O"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Johanna Reyes Ortega"
-  avatar           : "JohannaReyes_headshot_2021.jpg"
+  avatar           : "JohannaReyes_headshot_2021_sq.jpg"
   bio              : "Political Science PhD Candidate"
   location         : "UC Berkeley"
   employer         :
@@ -93,20 +93,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "johannareyeso"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "johannareyesortega/"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@joRey_O"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
