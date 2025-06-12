@@ -5,8 +5,6 @@ permalink: /oral-history/
 author_profile: true
 ---
 
-## Revolutionary Oral History Project
-
 This project documents the lived experiences of revolutionary actors through a series of oral history interviews. It features portraits and testimonies of women and men who participated in post-World War II revolutions. By preserving their voices and personal narratives, the project aims to recover grassroots perspectives on political struggle, gender roles, and the long-term legacies of revolutionary change.
 
 {% for person in site.data.revolutionaries %}
