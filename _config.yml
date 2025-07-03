@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Johanna Reyes Ortega"
-  avatar           : "cuba_headshot.HEIC"
+  avatar           : "/images/cuba_headshot.HEIC"
   bio              : "Political Science PhD Candidate"
   location         : "UC Berkeley"
   employer         :
