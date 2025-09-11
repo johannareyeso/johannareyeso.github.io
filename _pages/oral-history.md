@@ -54,3 +54,8 @@ This project documents the lived experiences of revolutionary actors through a s
   </div>
 {% endfor %}
 </div>
+
+<!-- Global photo credits -->
+<p style="margin-top: 3em; font-size: 0.9em; color: #555; text-align: center;">
+  Photos by <a href="https://www.trevoralexander.me/" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">@talexander</a>
+</p>
