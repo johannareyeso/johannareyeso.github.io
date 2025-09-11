@@ -1,41 +1,30 @@
 - name: Julio
   photo: /images/julio.jpg
   description: ""
-  credit_text: "@trevoralexander"
   credit_url: "https://www.trevoralexander.me/"
 
 - name: Eli
   photo: /images/eli.jpg
   description: ""
-  credit_text: "@trevoralexander"
-  credit_url: "https://www.trevoralexander.me/"
 
 - name: Margarita
   photo: /images/margarita.jpg
   description: ""
-  credit_text: "@trevoralexander"
-  credit_url: "https://www.trevoralexander.me/"
 
 - name: Fabio
   photo: /images/fabio.jpg
   description: ""
-  credit_text: "@trevoralexander"
-  credit_url: "https://www.trevoralexander.me/"
 
 - name:  
   photo: /images/fabio2.jpg
   description: ""
-  credit_text: "@trevoralexander"
-  credit_url: "https://www.trevoralexander.me/"
 
 - name: Vicente
   photo: /images/bobito.jpeg
   description: ""
   credit_text: "@trevoralexander"
-  credit_url: "https://www.trevoralexander.me/"
 
 - name: Mirian y Eduardo
   photo: /images/mirianeduardo.JPEG
   description: ""
-  credit_text: "@trevoralexander"
-  credit_url: "https://www.trevoralexander.me/"
+ 
