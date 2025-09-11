@@ -16,14 +16,13 @@ author_profile: true
     .rev-grid { grid-template-columns: 1fr; }
   }
 
-  /* Card + image styling */
+  /* Keep original image shape */
   .rev-card img {
     width: 100%;
-    aspect-ratio: 3 / 4;      /* consistent portrait shape */
-    object-fit: cover;         /* crop nicely if sizes vary */
+    height: auto;    /* preserves original aspect ratio */
     display: block;
     margin-bottom: 0.5em;
-    border-radius: 6px;        /* optional: soft corners */
+    border-radius: 6px;
   }
   .rev-credit {
     font-size: 0.85em;
