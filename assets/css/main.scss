@@ -40,10 +40,29 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Make profile photo bigger and square */
+/* Bigger square profile photo */
+.author__avatar {
+  display: block !important;
+  width: 320px !important;
+  max-width: 320px !important;
+}
+
 .author__avatar img {
-  width: 300px !important;
-  height: 300px !important;
-  object-fit: cover;
+  width: 320px !important;
+  max-width: 320px !important;
+  height: 320px !important;
+  object-fit: cover !important;
   border-radius: 0 !important;
+}
+
+/* Make the sidebar wide enough to hold the larger image */
+.sidebar {
+  width: 360px !important;
+}
+
+/* Push main content over so it does not collide with the wider sidebar */
+.archive,
+.page {
+  float: right;
+  width: calc(100% - 390px) !important;
 }
