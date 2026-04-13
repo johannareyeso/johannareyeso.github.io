@@ -1,7 +1,7 @@
 ---
 title: "Between Access and Advocacy: Rights Activism in Post-Conflict Côte d’Ivoire (with Leonardo Arriola, Arsène Brice Bado, and Justine Davis)"
 collection: publications
-status: "Working Paper"
+status: "Working Papers"
 abstract: "This article examines how rights activists in Côte d’Ivoire have recalibrated their
 strategies following the country’s transition from civil war to a more constrained political
 environment marked by shifting state-civil society relations and declining international
