@@ -30,7 +30,7 @@ author_profile: true
 </style>
 
 {% assign grouped = site.publications | group_by: 'status' %}
-{% assign order = "Dissertation Project,Under Review,Working Papers" | split: "," %}
+{% assign order = "Dissertation and Book Project,Under Review,Working Papers" | split: "," %}
 
 {% for heading in order %}
   {% assign group = grouped | where: "name", heading | first %}
