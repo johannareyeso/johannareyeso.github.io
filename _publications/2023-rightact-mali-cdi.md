@@ -1,23 +1,27 @@
 ---
-title: "Rights Activism Across Political Oscillations:
-Comparing Strategies in Mali and Côte d’Ivoire (with Leonardo Arriola, Arsène Brice Bado, Jaimie Bleck, Justine Davis, Alyssa Heinze, and Moumouni Soumano)"
+title: "Between Access and Advocacy: Rights Activism in Post-Conflict Côte d’Ivoire (with Leonardo Arriola, Arsène Brice Bado, and Justine Davis)"
 collection: publications
 status: "Working Paper"
+abstract: "This article examines how rights activists in Côte d’Ivoire have recalibrated their
+strategies following the country’s transition from civil war to a more constrained political
+environment marked by shifting state-civil society relations and declining international
+support. Drawing on 100 semi-structured interviews with leaders of human rights and
+community-based organizations across the country, the study analyzes how activists
+interpret political risks and adjust their practices accordingly. Interviewees consistently
+describe constraints operating less through overt repression than through indirect
+administrative practices, heightened political sensitivities during electoral periods, and
+selective state responsiveness. Activists report that maintaining access to communities
+and authorities requires careful management of political perception, leading many groups
+to emphasize neutrality and avoid public confrontation. Leaders note the need to tailor
+advocacy language to different audiences -- using technical, evidence-based framing with
+authorities and conflict-sensitive communication with communities -- in order to prevent
+their work from being interpreted as partisan. While these adaptations help sustain
+organizational presence, interviewees also emphasize their costs: legal recognition
+barriers and uneven state engagement often limit their capacity to publicly denounce
+abuses or mobilize collective action. By centering activists’ own accounts, the article
+shows how depoliticization, mission diversification, and communicative flexibility
+function as practical responses to politically uncertain environments. In doing so, it
+contributes to broader debates on how rights activism is reshaped under contested civic
+space in Africa. Contact for working paper."
 ---
-Contact for working paper. 
-
-Activists navigate an increasingly complex political landscape under African governments claiming
-to adhere the rule of law while simultaneously enacting autocratic measures aimed at curtailing basic
-freedoms. This paper explores rights activists in Côte d’Ivoire and Mali, where human rights
-activists must operate under the insecurity associated with post- conflict transitions. This paper
-draws on interviews with more than 150 activist organizations in Côte d’Ivoire and Mali to
-understand how political oscillations have affected activists’ strategies. We ask: How do different
-types of political environments affect rights activists’ strategies? We examine responses from a
-range of activist groups, including women, environmental, and political rights activists, as they
-navigate two different regimes. We compare activists’ strategies in Côte d’Ivoire, historically a
-closed semi-authoritarian regime that now enjoys a relatively peaceful, but increasingly
-authoritarian context, with those in Mali, historically more pluralist, but which has become more
-repressive after three coups. This paper has the potential to contribute meaningfully to our
-understanding of how human rights can be expanded under political uncertainty and which actions
-can be effective in protecting rights activists in countries where civic space is shrinking.
 
