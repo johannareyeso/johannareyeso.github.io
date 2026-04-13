@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <style>
+  ul {
+  list-style: none;
+  padding-left: 0;
+}
 .paper-abstract {
   display: none;
   margin-top: 0.5em;
