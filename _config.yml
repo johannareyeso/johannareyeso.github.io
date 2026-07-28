@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Johanna Reyes Ortega, PhD"
+title                    : "Johanna Reyes Ortega"
 title_separator          : "-"
 name                     : &name "Johanna Reyes"
 description              : &description "Postdoctoral Associate, Yale Identity and Conflict Lab"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Johanna Reyes Ortega"
+  name             : "Johanna Reyes Ortega, PhD"
   avatar           : cubaheadshot.jpg
-  bio              : "Political Science PhD Candidate"
-  location         : "UC Berkeley"
+  bio              : "Postdoctoral Associate, Identity and Conflict Lab"
+  location         : "Yale University"
   employer         :
   email            : 
   uri              :
