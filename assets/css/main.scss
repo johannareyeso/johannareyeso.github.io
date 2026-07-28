@@ -40,29 +40,34 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Bigger square profile photo */
+/* Square profile photo */
 .author__avatar {
-  display: block !important;
-  width: 320px !important;
-  max-width: 320px !important;
+  width: 72vw !important;
+  max-width: 300px !important;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .author__avatar img {
-  width: 320px !important;
-  max-width: 320px !important;
-  height: 320px !important;
+  display: block;
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 1 / 1;
   object-fit: cover !important;
   border-radius: 0 !important;
 }
 
-/* Make the sidebar wide enough to hold the larger image */
-.sidebar {
-  width: 360px !important;
-}
+/* Desktop */
+@include breakpoint($large) {
+  .author__avatar {
+    width: 260px !important;
+    max-width: 260px !important;
+    margin-left: 0;
+    margin-right: 0;
+  }
 
-/* Push main content over so it does not collide with the wider sidebar */
-.archive,
-.page {
-  float: right;
-  width: calc(100% - 390px) !important;
+  .author__avatar img {
+    width: 260px !important;
+    height: 260px !important;
+  }
 }
