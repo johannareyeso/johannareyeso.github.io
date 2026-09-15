@@ -7,9 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+> Instructor of Record for Political Science Math Camp (Graduate)
+
+Probability and Statistics, Matrix Algebra, Calculus, and Optimization, Summer 2025
+
 > GSI for Political Science Math Camp (Graduate)
 
-Probability and Statistics, Matrix Algebra, Calculus, and Optimization, Summer 2024
+Summer 2025
 
 > GSI for Political Science 231b (Graduate)
 
