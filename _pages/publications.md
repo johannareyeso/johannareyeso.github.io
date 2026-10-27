@@ -58,7 +58,7 @@ header:
 {% endfor %}
 <figure style="margin-top: 2.5em;">
     <img src="/images/habana-small.jpg" alt="Short description of the photo"
-         style="width:100%; max-height:380px; object-fit:cover; border-radius:6px;">
+         style="width:100%; max-height:800px; object-fit:cover; border-radius:6px;">
     <figcaption style="font-size:0.8em; color:#777; margin-top:0.4em;">
     La Habana 2024
     </figcaption>
