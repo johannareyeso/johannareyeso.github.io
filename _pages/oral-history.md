@@ -3,6 +3,8 @@ layout: archive
 title: "Revolutionary Oral History Project"
 permalink: /oral-history/
 author_profile: false
+header:
+    image: "vinales-small.jpg"
 ---
 
 <style>
