@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-    image: "trinidad-small.jpg"
+    image: "vinales-small.jpg"
 ---
 
 I am a Postdoctoral Associate at the [Identity and Conflict Lab](https://campuspress.yale.edu/yaleicl/) at Yale University. I received my PhD in Political Science from the University of California, Berkeley in 2026.
