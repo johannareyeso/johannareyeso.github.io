@@ -1,11 +1,21 @@
+- name: Mirian
+  photo: /images/mirian-small.jpg
+  description: ""
+  credit_url: "https://www.trevoralexander.me/"
+
+  - name: Eli
+  photo: /images/eli.jpg
+  description: ""
+
+- name: Eduardo
+  photo: /images/Eduardo-small.jpg
+  description: ""
+  credit_url: "https://www.trevoralexander.me/"
+  
 - name: Julio
   photo: /images/julio.jpg
   description: ""
   credit_url: "https://www.trevoralexander.me/"
-
-- name: Eli
-  photo: /images/eli.jpg
-  description: ""
 
 - name: Margarita
   photo: /images/margarita.jpg
