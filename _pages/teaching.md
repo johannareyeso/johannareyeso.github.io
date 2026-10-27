@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 header:
-    image: "santiago.jpg"
+    image: "santiago.jpeg"
 ---
 
 {% include base_path %}
