@@ -3,7 +3,7 @@ title: "Religious Legacies and Gender Equality in Indigenous Governance: Evidenc
 collection: publications
 status: "Working Papers"
 abstract: "Indigenous governance institutions shape the lives of approximately 477 million Indigenous people globally and regulate nearly 
-50% of the world’s land. While their importance is widely acknowledged, significant gaps remain in our understanding of the internal variation 
+fifty percent of the world’s land. While their importance is widely acknowledged, significant gaps remain in our understanding of the internal variation 
 across these institutions—particularly regarding the criteria for access to positions of authority. Who is recognized as an authority within these 
 communities, and how is that status defined and contested? This paper investigates the diversity of access to authority within Indigenous governance 
 structures in Mexico, with a specific focus on gender. Drawing on novel community-level data from the Instituto Nacional de los Pueblos Indígenas, 
