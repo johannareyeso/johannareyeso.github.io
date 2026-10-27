@@ -3,6 +3,8 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+header:
+    image: "santiago.jpg"
 ---
 
 {% include base_path %}
