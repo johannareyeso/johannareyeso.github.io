@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-    image: "bacunayagua-small.jpg"
+    image: "malecon-small.jpg"
 ---
 
 <style>
@@ -60,7 +60,7 @@ header:
     <img src="/images/habana-small.jpg" alt="Short description of the photo"
          style="width:100%; max-height:380px; object-fit:cover; border-radius:6px;">
     <figcaption style="font-size:0.8em; color:#777; margin-top:0.4em;">
-      Photo description or credit
+    La Habana 2024
     </figcaption>
   </figure>
 <script>
