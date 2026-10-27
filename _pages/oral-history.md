@@ -2,7 +2,7 @@
 layout: archive
 title: "Revolutionary Oral History Project"
 permalink: /oral-history/
-author_profile: true
+author_profile: false
 ---
 
 <style>
